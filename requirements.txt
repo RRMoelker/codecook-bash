@@ -1,0 +1,3 @@
+urwid		# Console user interface library for Python
+pyperclip	# Cross-platform clipboard module
+PyXDG		# Cross-platform file storage (config)
