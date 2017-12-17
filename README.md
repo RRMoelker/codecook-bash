@@ -1,6 +1,8 @@
 codecook-bash
 =============
 
+# No longer supported, codecook-console is new project
+
 Bash snippet tool that searches and inserts snippets from [CodeCook.io](http://codecook.io/).
 
 
